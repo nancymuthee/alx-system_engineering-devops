@@ -1,0 +1,1 @@
+writing special permissions redirections
