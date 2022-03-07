@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '\U1F615\n'
+perl -CO -E 'say "\N{U+1F615}"' 
