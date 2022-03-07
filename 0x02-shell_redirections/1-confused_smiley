@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -CO -E 'say "\N{U+1F615}"' 
+echo "(°°)"
